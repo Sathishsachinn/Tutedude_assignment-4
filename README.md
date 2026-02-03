@@ -101,11 +101,3 @@ Learning file handling in Python.
 ```
 python filename.py
 ```
-
-
-## Learning Outcomes
-
-* Understanding file handling in Python
-* Working with different file modes
-* Handling file-related errors safely
-* Reading and writing user input to files
