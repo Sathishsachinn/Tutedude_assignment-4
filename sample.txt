@@ -1,0 +1,3 @@
+ file contsis of 
+ line 1:this is a simple text file
+ line 2:consist multiple line
